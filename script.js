@@ -1,5 +1,5 @@
 const API_BASE = "https://api.thedogapi.com/v1";
-const API_KEY = "YOUR_API_KEY_HERE"; // replaced during local dev
+const API_KEY = "live_P4NLV6uE0ez9KUqRTOJdxhEqe8hv5XJEfX4Ur4gIJNzErRh9oln4RXLM0zxW4f7u"; // replaced during local dev
 
 // RANDOM DOG IMAGE
 const loadDogBtn = document.getElementById("loadDog");
